@@ -1,6 +1,6 @@
 /*백준 10757번 문제 - (큰 수 A+B)
   큰 수를 정수 변수에 넣는 것이 아니라 문자열에 저장하여 각 자리별로 계산하는 것이 핵심 포인트
-*/
+*/ 
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
