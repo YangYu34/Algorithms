@@ -1,4 +1,4 @@
-//백준 18258번 문제 - 큐2
+//백준 18258번 문제 - 큐2 
 
 #include <stdio.h>
 #include <string.h>
